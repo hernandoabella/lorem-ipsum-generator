@@ -1,1 +1,1 @@
-# generador-de-lorem-ipsum
+# lorem-ipsum-generator
